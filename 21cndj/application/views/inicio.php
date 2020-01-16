@@ -390,7 +390,7 @@
 																<div class="col-xs-12">
 																	<div class="form-group">
 
-																		22Congreso Nacional de Danza Jazz, <span class="text-primary">Puerto Vallarta </span>
+																		22 Congreso Nacional de Danza Jazz, <span class="text-primary">Puerto Vallarta </span>
 																		<input type="hidden" name="sede" value="1" id="sede">
 																		<!--
 																		<select name="sede" id="sede" data-parsley-group="field_pago" class="form-control margin-top-10" required data-parsley-group="field_pago">
