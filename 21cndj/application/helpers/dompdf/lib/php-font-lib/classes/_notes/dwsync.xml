@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="adobe_font_metrics.cls.php" server="216.172.184.60" local="131480706883011658" remote="131134644000000000" Dst="2" />
+<file name="encoding_map.cls.php" server="216.172.184.60" local="131480706883291682" remote="131134644000000000" Dst="2" />
+<file name="font.cls.php" server="216.172.184.60" local="131480706889262407" remote="131134644000000000" Dst="2" />
+<file name="font_binary_stream.cls.php" server="216.172.184.60" local="131480706889787479" remote="131134644000000000" Dst="2" />
+<file name="font_eot.cls.php" server="216.172.184.60" local="131480706890122514" remote="131134644000000000" Dst="2" />
+<file name="font_opentype.cls.php" server="216.172.184.60" local="131480706896973349" remote="131134644000000000" Dst="2" />
+<file name="font_header.cls.php" server="216.172.184.60" local="131480706896763330" remote="131134644000000000" Dst="2" />
+<file name="font_opentype_table_directory_entry.cls.php" server="216.172.184.60" local="131480706896273264" remote="131134644000000000" Dst="2" />
+<file name="font_table.cls.php" server="216.172.184.60" local="131480706904934329" remote="131134644000000000" Dst="2" />
+<file name="font_table_cmap.cls.php" server="216.172.184.60" local="131480706905334374" remote="131134644000000000" Dst="2" />
+<file name="font_table_directory_entry.cls.php" server="216.172.184.60" local="131480706904379257" remote="131134644000000000" Dst="2" />
+<file name="font_table_glyf.cls.php" server="216.172.184.60" local="131480706914250478" remote="131134644000000000" Dst="2" />
+<file name="font_table_head.cls.php" server="216.172.184.60" local="131480706914420481" remote="131134644000000000" Dst="2" />
+<file name="font_table_hhea.cls.php" server="216.172.184.60" local="131480706914675514" remote="131134644000000000" Dst="2" />
+<file name="font_table_hmtx.cls.php" server="216.172.184.60" local="131480706919211088" remote="131134644000000000" Dst="2" />
+<file name="font_table_kern.cls.php" server="216.172.184.60" local="131480706921446343" remote="131134644000000000" Dst="2" />
+<file name="font_table_loca.cls.php" server="216.172.184.60" local="131480706921761382" remote="131134644000000000" Dst="2" />
+<file name="font_table_name.cls.php" server="216.172.184.60" local="131480706933024283" remote="131134644000000000" Dst="2" />
+<file name="font_table_maxp.cls.php" server="216.172.184.60" local="131480706931414097" remote="131134644000000000" Dst="2" />
+<file name="font_table_name_record.cls.php" server="216.172.184.60" local="131480706932639240" remote="131134644000000000" Dst="2" />
+<file name="font_table_os2.cls.php" server="216.172.184.60" local="131480706938629967" remote="131134644000000000" Dst="2" />
+<file name="font_table_post.cls.php" server="216.172.184.60" local="131480706939045022" remote="131134644000000000" Dst="2" />
+<file name="font_truetype.cls.php" server="216.172.184.60" local="131480706939775096" remote="131134644000000000" Dst="2" />
+<file name="font_truetype_collection.cls.php" server="216.172.184.60" local="131480706948951218" remote="131134644000000000" Dst="2" />
+<file name="font_truetype_header.cls.php" server="216.172.184.60" local="131480706951346516" remote="131134644000000000" Dst="2" />
+<file name="font_truetype_table_directory_entry.cls.php" server="216.172.184.60" local="131480706951901577" remote="131134644000000000" Dst="2" />
+<file name="font_woff_header.cls.php" server="216.172.184.60" local="131480706962802912" remote="131134644000000000" Dst="2" />
+<file name="font_woff.cls.php" server="216.172.184.60" local="131480706962597885" remote="131134644000000000" Dst="2" />
+<file name="font_woff_table_directory_entry.cls.php" server="216.172.184.60" local="131480706964913191" remote="131134644000000000" Dst="2" />
+</dwsync>
